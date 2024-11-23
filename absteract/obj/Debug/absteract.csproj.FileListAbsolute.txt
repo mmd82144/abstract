@@ -1,0 +1,10 @@
+C:\Users\LOQ\source\repos\absteract\absteract\bin\Debug\absteract.exe.config
+C:\Users\LOQ\source\repos\absteract\absteract\bin\Debug\absteract.exe
+C:\Users\LOQ\source\repos\absteract\absteract\bin\Debug\absteract.pdb
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.Form1.resources
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.Properties.Resources.resources
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.csproj.GenerateResource.cache
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.exe
+C:\Users\LOQ\source\repos\absteract\absteract\obj\Debug\absteract.pdb
